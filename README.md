@@ -17,7 +17,7 @@ this objetives a want to achieve:
 - [ ] More texture
 - [ ] Basic horror ambience sounds
 
-### Enemy tracking Improve - updated in *enemyTracking* branch
+### Enemy tracking Improve - Updated & WIP in [enemyTracking branch](https://github.com/gurkenpoo/godotRetroHorror/tree/enemyTracking)
 
 
 
