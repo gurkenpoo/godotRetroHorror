@@ -13,8 +13,17 @@ godot PSX style horror game (...in progress...). basic template created followin
 
 this objetives a want to achieve:
 
-- [ ] Enemy tracking
+- [x] Enemy tracking
 - [ ] More texture
 - [ ] Basic horror ambience sounds
+
+### Enemy tracking Improve - updated in *enemyTracking* branch
+
+
+
+![enemyTracking-_online-video-cutter com_](https://github.com/gurkenpoo/godotRetroHorror/assets/90875843/f2861b36-e62a-47fa-89d1-c898926696f6)
+
+
+
 
 ### [Here is the starter Trello](https://trello.com/b/J7HZNwSN/proyectpxt).
