@@ -37,7 +37,7 @@ script = ExtResource("1_4k2lm")
 environment = SubResource("Environment_k2l74")
 
 [node name="player" parent="." instance=ExtResource("1_0dx5o")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.34655, 0.282991, 0.214437)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.34655, 1.81942, 0.214437)
 
 [node name="NavigationRegion3D" type="NavigationRegion3D" parent="."]
 navigation_mesh = SubResource("NavigationMesh_0crjw")
@@ -53,7 +53,7 @@ data = {
 metadata/_editor_floor_ = Vector3(0, 0, 0)
 
 [node name="Enemy" parent="." instance=ExtResource("4_nsnwr")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.224616, 1.09789, -11.5305)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -8.57062, 1.09789, -10.427)
 
 [node name="Enemy2" parent="." instance=ExtResource("4_nsnwr")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 15.0813, -3.57628e-07, -26.1684)

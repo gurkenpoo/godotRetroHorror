@@ -23,3 +23,6 @@ shape = SubResource("CapsuleShape3D_k77eq")
 
 [node name="NavigationAgent3D" type="NavigationAgent3D" parent="."]
 agent_height_offset = 0.45
+debug_enabled = true
+debug_path_custom_color = Color(1, 0, 1, 1)
+debug_path_custom_point_size = 10.0
