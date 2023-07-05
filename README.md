@@ -1,17 +1,17 @@
 # godotRetroHorror
-godot PSX style horror game (...in progress...). basic template created following the instruction of @devlogloga
+godot PSX style horror game (...in progress...). basic template created following the instruction of @devloglogan
 
 ![imagen](https://user-images.githubusercontent.com/90875843/227679235-8226527e-99e0-4f2e-a7bf-709d53554563.png)
 
 ## about
 
-- I get really inspired after seen this result, after spending time studing and dig in tutorials everywhere.
+- I was really inspired after seeing this result, after spending time studying and digging through tutorials everywhere.
 
-- So, i'll stay with this template, to start a journy in **Game development**.
+- So, I'll stick with this template to start my journey into **game development**.
 
-- Starting with a Trello and simple task to organice my studies and marking short term objetives
+- I'll start by creating a Trello board and simple tasks to organize my studies and set short-term goals.
 
-this objetives a want to achieve:
+These are the goals I want to achieve:
 
 - [x] Enemy tracking
 - [ ] More texture
